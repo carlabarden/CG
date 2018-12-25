@@ -30,3 +30,8 @@ Implementações:
     - Controle de FPS:
         Conforme demo disponível no site da disciplina
 
+
+
+Para compilar: $ make
+Para limpar:   $ make clean
+Para rodar:    $ make run
